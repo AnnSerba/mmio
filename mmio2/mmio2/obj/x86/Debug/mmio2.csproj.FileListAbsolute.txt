@@ -1,0 +1,9 @@
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\bin\Debug\mmio2.exe
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\bin\Debug\mmio2.pdb
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\obj\x86\Debug\mmio2.Hello.resources
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\obj\x86\Debug\mmio2.Properties.Resources.resources
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\obj\x86\Debug\mmio2.csproj.GenerateResource.Cache
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\obj\x86\Debug\mmio2.exe
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\obj\x86\Debug\mmio2.pdb
+c:\users\аня\documents\visual studio 2010\Projects\mmio2\mmio2\obj\x86\Debug\mmio2.Solve.resources
+C:\Users\Аня\documents\visual studio 2010\Projects\mmio2\mmio2\obj\x86\Debug\mmio2.csprojResolveAssemblyReference.cache
